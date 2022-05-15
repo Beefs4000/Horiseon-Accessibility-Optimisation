@@ -17,7 +17,3 @@ In this project I learned the value of using the correct semantic language in HT
 - [Understanding HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How to write semantic HTML](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo)
 - [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-
-
-
-
