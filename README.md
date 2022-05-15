@@ -6,8 +6,8 @@ In this project I learned the value of using the correct semantic language in HT
 
 ## Original Code
 
-![Screenshot of original HTML code](Develop/assets/Examples/Div-only.png)
-![Screenshot of Redundant CSS code](Develop/assets/Examples/Redundant-code.png)
+![Screenshot of original HTML code](assets/Examples/Div-only.png)
+![Screenshot of Redundant CSS code](assets/Examples/Redundant-code.png)
 
 
 ## Helpful Links
