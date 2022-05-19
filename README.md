@@ -4,6 +4,8 @@
 
 In this project I learned the value of using the correct semantic language in HTML. Having to correct this coded from generic /div/ elements to a readable structure, helped me better understand the flow. It also showed me how effective the use of class and ID can be to simplify a style.css file
 
+- [My Assignment](https://beefs4000.github.io/Horiseon-Accessibility-Optimisation/)
+
 ## Original Code
 
 ![Screenshot of original HTML code](assets/Examples/Div-only.png)
